@@ -1,0 +1,15 @@
+.home__buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  column-gap: 15px;
+  height: max-content;
+}
+
+.no-contacts-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
